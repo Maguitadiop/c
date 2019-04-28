@@ -1,0 +1,76 @@
+#image{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#bloc{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+img{
+    padding-top: 15px;
+}
+
+#detail{
+    text-align: center;
+}
+#pied{
+    text-align: center;
+    color:aqua;
+}
+h5{
+    text-align: center;
+    color:brown;
+}
+h4{
+    text-align: center;
+}
+#supp{
+    margin-left: 100px;
+}
+.precede{
+    text-align: center;
+}
+
+#pat{
+    text-align: center;
+}
+#bad{
+    float:left;
+    margin-left: 100px;
+}
+#text{
+    width:800px;
+    float:right;
+    margin-right: 50px;
+}
+#web, #sport, #mec{
+    text-align: center;
+    background-color:aquamarine;
+    border:dashed 5px;
+    border-radius: 200px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+#spr{
+    width:400px;
+    float:left;
+    margin-left: 50px;
+    padding-top: 50px;
+}
+#feg{
+    float:right;
+    margin-right: 50px;
+}
+#spo{
+    width:700px;
+    float:right;
+    margin-right: 50px;
+}
+#im{
+    float:left;
+    margin-left: 50px;
+}
+#suite{
+    margin-left: 150px; 
+}
